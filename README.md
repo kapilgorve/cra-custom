@@ -1,4 +1,4 @@
-Ready to deploy react app for heroku. Configured with scss,airbnb eslint.
+Ready to deploy react app for heroku. Configured with scss,airbnb eslint,react dom router v4,axios.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
